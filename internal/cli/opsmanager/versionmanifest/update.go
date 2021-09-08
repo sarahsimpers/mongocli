@@ -32,9 +32,10 @@ const updateTemplate = "Version manifest updated.\n"
 
 type UpdateOpts struct {
 	cli.OutputOpts
+	cli.VersionOpts
 	versionManifest       string
 	SkipVersionValidation bool
-	store                 store.VersionManifestUpdaterServiceVersionDescriber
+	store                 store.VersionManifestUpdater
 	storeStaticPath       store.VersionManifestGetter
 }
 
@@ -55,12 +56,7 @@ func (opts *UpdateOpts) Run() error {
 	}
 
 	if !opts.SkipVersionValidation {
-		v, e := opts.store.ServiceVersion()
-		if e != nil {
-			return e
-		}
-
-		svOM, e := cli.ParseServiceVersion(v)
+		svOM, e := opts.ServiceVersion()
 		if e != nil {
 			return err
 		}
@@ -93,13 +89,19 @@ func (opts *UpdateOpts) version() string {
 // mongocli om versionManifest(s) update <version>.
 func UpdateBuilder() *cobra.Command {
 	opts := &UpdateOpts{}
-	opts.Template = updateTemplate
 	cmd := &cobra.Command{
 		Use:   "update <version>",
 		Short: "Update Ops Manager version manifest.",
 		Args:  require.ExactArgs(1),
 		PreRunE: func(cmd *cobra.Command, args []string) error {
-			opts.OutWriter = cmd.OutOrStdout()
+			err := opts.InitOutput(cmd.OutOrStdout(), updateTemplate)()
+			if err != nil {
+				return err
+			}
+			err = opts.InitVersion()
+			if err != nil {
+				return err
+			}
 			return opts.initStore()
 		},
 		RunE: func(cmd *cobra.Command, args []string) error {

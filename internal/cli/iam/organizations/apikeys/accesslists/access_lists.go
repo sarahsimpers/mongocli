@@ -18,7 +18,6 @@ import (
 	"github.com/Masterminds/semver/v3"
 	"github.com/mongodb/mongocli/internal/cli"
 	"github.com/mongodb/mongocli/internal/config"
-	"github.com/mongodb/mongocli/internal/store"
 	"github.com/spf13/cobra"
 	atlas "go.mongodb.org/atlas/mongodbatlas"
 )
@@ -43,17 +42,12 @@ func Builder() *cobra.Command {
 
 // shouldUseAccessList returns true when service is Cloud, CloudGov, Cloud Manager or Ops Manager (version 5+)
 // and returns false when Ops Manager 4 or below.
-func shouldUseAccessList(s store.ServiceVersionDescriber) (bool, error) {
+func shouldUseAccessList(opts *cli.VersionOpts) (bool, error) {
 	if config.Service() != config.OpsManagerService {
 		return true, nil
 	}
 
-	v, err := s.ServiceVersion()
-	if err != nil {
-		return false, err
-	}
-
-	sv, err := cli.ParseServiceVersion(v)
+	sv, err := opts.ServiceVersion()
 	if err != nil {
 		return false, err
 	}

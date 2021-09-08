@@ -29,7 +29,8 @@ import (
 
 func TestVersionManifestUpdate_Run(t *testing.T) {
 	ctrl := gomock.NewController(t)
-	mockStore := mocks.NewMockVersionManifestUpdaterServiceVersionDescriber(ctrl)
+	mockStore := mocks.NewMockVersionManifestUpdater(ctrl)
+	mockStoreVersion := mocks.NewMockServiceVersionDescriber(ctrl)
 	mockStoreStaticPath := mocks.NewMockVersionManifestGetter(ctrl)
 	defer ctrl.Finish()
 
@@ -68,7 +69,7 @@ func TestVersionManifestUpdate_Run(t *testing.T) {
 			}
 
 			if tt.omVersion != "" {
-				mockStore.
+				mockStoreVersion.
 					EXPECT().ServiceVersion().
 					Return(&opsmngr.ServiceVersion{Version: tt.omVersion}, nil).
 					Times(1)

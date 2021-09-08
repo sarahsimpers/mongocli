@@ -18,8 +18,30 @@ import (
 	"strings"
 
 	"github.com/Masterminds/semver/v3"
+	"github.com/mongodb/mongocli/internal/config"
+	"github.com/mongodb/mongocli/internal/store"
 	atlas "go.mongodb.org/atlas/mongodbatlas"
 )
+
+type VersionOpts struct {
+	store store.ServiceVersionDescriber
+}
+
+// InitVersion allow to init the VersionOpts in a functional way.
+func (opts *VersionOpts) InitVersion() error {
+	var err error
+	opts.store, err = store.New(store.AuthenticatedPreset(config.Default()))
+	return err
+}
+
+// ServiceVersion retrieves and parses the service version.
+func (opts *VersionOpts) ServiceVersion() (*semver.Version, error) {
+	v, err := opts.store.ServiceVersion()
+	if err != nil {
+		return nil, err
+	}
+	return ParseServiceVersion(v)
+}
 
 // ParseServiceVersion parses service version into semver.Version.
 func ParseServiceVersion(v *atlas.ServiceVersion) (*semver.Version, error) {

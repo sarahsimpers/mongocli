@@ -32,6 +32,7 @@ const listTemplate = `IP ADDRESS	CIDR BLOCK	CREATED AT{{range .Results}}
 type ListOpts struct {
 	cli.GlobalOpts
 	cli.OutputOpts
+	cli.VersionOpts
 	cli.ListOpts
 	id    string
 	store store.OrganizationAPIKeyAccessListWhitelistLister
@@ -44,7 +45,7 @@ func (opts *ListOpts) init() error {
 }
 
 func (opts *ListOpts) Run() error {
-	useAccessList, err := shouldUseAccessList(opts.store)
+	useAccessList, err := shouldUseAccessList(&opts.VersionOpts)
 	if err != nil {
 		return err
 	}
@@ -80,6 +81,7 @@ func ListBuilder() *cobra.Command {
 				opts.ValidateOrgID,
 				opts.init,
 				opts.InitOutput(cmd.OutOrStdout(), listTemplate),
+				opts.InitVersion,
 			)
 		},
 		RunE: func(cmd *cobra.Command, args []string) error {

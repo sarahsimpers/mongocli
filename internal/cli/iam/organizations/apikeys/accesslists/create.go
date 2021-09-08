@@ -31,6 +31,7 @@ const createTemplate = "Created new access list entry(s).\n"
 type CreateOpts struct {
 	cli.GlobalOpts
 	cli.OutputOpts
+	cli.VersionOpts
 	apyKey string
 	ips    []string
 	cidrs  []string
@@ -71,7 +72,7 @@ func (opts *CreateOpts) Run() error {
 		return err
 	}
 
-	useAccessList, err := shouldUseAccessList(opts.store)
+	useAccessList, err := shouldUseAccessList(&opts.VersionOpts)
 	if err != nil {
 		return err
 	}
@@ -105,6 +106,7 @@ func CreateBuilder() *cobra.Command {
 				opts.ValidateOrgID,
 				opts.init,
 				opts.InitOutput(cmd.OutOrStdout(), createTemplate),
+				opts.InitVersion,
 			)
 		},
 		RunE: func(cmd *cobra.Command, args []string) error {

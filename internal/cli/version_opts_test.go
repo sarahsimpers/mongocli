@@ -17,10 +17,12 @@ package cli
 import (
 	"testing"
 
+	"github.com/golang/mock/gomock"
+	"github.com/mongodb/mongocli/internal/mocks"
 	"go.mongodb.org/atlas/mongodbatlas"
 )
 
-func TestParseServiceVersion(t *testing.T) {
+func TestServiceVersion(t *testing.T) {
 	tests := []struct {
 		name           string
 		serviceVersion *mongodbatlas.ServiceVersion
@@ -61,7 +63,20 @@ func TestParseServiceVersion(t *testing.T) {
 
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			r, err := ParseServiceVersion(tt.serviceVersion)
+			ctrl := gomock.NewController(t)
+			mockStore := mocks.NewMockServiceVersionDescriber(ctrl)
+			defer ctrl.Finish()
+
+			opts := &VersionOpts{
+				store: mockStore,
+			}
+
+			mockStore.
+				EXPECT().ServiceVersion().
+				Return(tt.serviceVersion, nil).
+				Times(1)
+
+			r, err := opts.ServiceVersion()
 			if tt.wantErr {
 				if err == nil {
 					t.Fatalf("Run() expected error to be returned")

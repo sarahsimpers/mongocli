@@ -27,6 +27,7 @@ import (
 type DeleteOpts struct {
 	*cli.DeleteOpts
 	cli.GlobalOpts
+	cli.VersionOpts
 	apiKey string
 	store  store.OrganizationAPIKeyAccessListWhitelistDeleter
 }
@@ -38,7 +39,7 @@ func (opts *DeleteOpts) init() error {
 }
 
 func (opts *DeleteOpts) Run() error {
-	useAccessList, err := shouldUseAccessList(opts.store)
+	useAccessList, err := shouldUseAccessList(&opts.VersionOpts)
 	if err != nil {
 		return err
 	}
@@ -65,7 +66,7 @@ func DeleteBuilder() *cobra.Command {
 		Short:   "Delete an IP access list from your API Key.",
 		Args:    require.ExactArgs(1),
 		PreRunE: func(cmd *cobra.Command, args []string) error {
-			if err := opts.PreRunE(opts.ValidateOrgID, opts.init); err != nil {
+			if err := opts.PreRunE(opts.ValidateOrgID, opts.init, opts.InitVersion); err != nil {
 				return err
 			}
 			opts.Entry = args[0]
