@@ -72,6 +72,9 @@ func CreateBuilder() *cobra.Command {
 		Short: "Create a new AWS private endpoint for your project.",
 		Long:  `To learn more about how to set up private endpoints with the Atlas CLI, see the tutorial on the Atlas CLI tab here: https://www.mongodb.com/docs/atlas/security-cluster-private-endpoint/.`,
 		Args:  require.NoArgs,
+		Annotations: map[string]string{
+			"output": createTemplate,
+		},
 		Example: fmt.Sprintf(`  # Create a private endpoint connection for AWS in the us-east-1 region for the project with the ID 5e2211c17a3e5a48f5497de3:
   %s privateEndpoints aws create --region us-east-1 --projectId 5e2211c17a3e5a48f5497de3 --output json`, cli.ExampleAtlasEntryPoint()),
 		PreRunE: func(cmd *cobra.Command, args []string) error {

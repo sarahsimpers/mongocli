@@ -72,6 +72,9 @@ func CreateBuilder() *cobra.Command {
   --notificationType USER --notificationEmailEnabled \
   --notificationUsername john@example.com \
   --output json --projectId 5df90590f10fab5e33de2305`, cli.ExampleAtlasEntryPoint()),
+		Annotations: map[string]string{
+			"output": createTemplate,
+		},
 		PreRunE: func(cmd *cobra.Command, args []string) error {
 			return opts.PreRunE(
 				opts.ValidateProjectID,

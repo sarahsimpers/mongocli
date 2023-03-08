@@ -77,6 +77,9 @@ After you integrate with Datadog, you can send metric data about your project to
 		
 Datadog integration is available only for M10+ clusters.`,
 		Args: require.NoArgs,
+		Annotations: map[string]string{
+			"output": createTemplateDatadog,
+		},
 		Example: fmt.Sprintf(`  # Integrate Datadog with Atlas for the project with the ID 5e2211c17a3e5a48f5497de3:
   %s integrations create DATADOG --apiKey a1a23bcdef45ghijk6789 --projectId 5e2211c17a3e5a48f5497de3 --output json`, cli.ExampleAtlasEntryPoint()),
 		PreRunE: func(cmd *cobra.Command, args []string) error {

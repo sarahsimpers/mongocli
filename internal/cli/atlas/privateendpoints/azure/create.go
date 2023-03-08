@@ -74,6 +74,9 @@ func CreateBuilder() *cobra.Command {
 		Args:  require.NoArgs,
 		Example: fmt.Sprintf(`  # Create a private endpoint connection for Azure in the eastus region for the project with the ID 5e2211c17a3e5a48f5497de3:
   %s privateEndpoints azure create --region eastus --projectId 5e2211c17a3e5a48f5497de3 --output json`, cli.ExampleAtlasEntryPoint()),
+		Annotations: map[string]string{
+			"output": createTemplate,
+		},
 		PreRunE: func(cmd *cobra.Command, args []string) error {
 			return opts.PreRunE(
 				opts.ValidateProjectID,

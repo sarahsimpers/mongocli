@@ -72,6 +72,9 @@ func CreateBuilder() *cobra.Command {
 		Short:   "Create a new GCP private endpoint for your project.",
 		Args:    require.NoArgs,
 		Example: fmt.Sprintf(`  %s privateEndpoints gcp create --region CENTRAL_US`, cli.ExampleAtlasEntryPoint()),
+		Annotations: map[string]string{
+			"output": createTemplate,
+		},
 		PreRunE: func(cmd *cobra.Command, args []string) error {
 			return opts.PreRunE(
 				opts.ValidateProjectID,
