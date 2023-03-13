@@ -13,7 +13,6 @@ mongocli cloud-manager monitoring stop
    :class: singlecol
 
 Stops monitoring the MongoDB process specified
-
 Syntax
 ------
 

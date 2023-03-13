@@ -13,7 +13,6 @@ mongocli cloud-manager clusters apply
    :class: singlecol
 
 Apply a new cluster configuration for your project.
-
 Syntax
 ------
 

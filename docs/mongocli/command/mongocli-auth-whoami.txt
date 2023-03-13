@@ -13,7 +13,6 @@ mongocli auth whoami
    :class: singlecol
 
 Verifies and displays information about your authentication state.
-
 Syntax
 ------
 

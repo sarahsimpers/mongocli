@@ -13,7 +13,6 @@ atlas liveMigrations validation describe
    :class: singlecol
 
 Return one validation job.
-
 Syntax
 ------
 

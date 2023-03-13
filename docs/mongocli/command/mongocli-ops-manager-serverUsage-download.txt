@@ -13,7 +13,6 @@ mongocli ops-manager serverUsage download
    :class: singlecol
 
 Download the server usage report.
-
 Syntax
 ------
 

@@ -13,7 +13,6 @@ atlas backups exports buckets
    :class: singlecol
 
 Manage cloud backup export buckets for your project.
-
 Options
 -------
 

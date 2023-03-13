@@ -13,7 +13,6 @@ mongocli ops-manager serverUsage projects hosts
    :class: singlecol
 
 Manage host assignment for a project.
-
 Options
 -------
 

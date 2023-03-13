@@ -13,7 +13,6 @@ mongocli atlas privateEndpoints azure interfaces
    :class: singlecol
 
 Manage Atlas Azure private endpoint interfaces.
-
 Options
 -------
 

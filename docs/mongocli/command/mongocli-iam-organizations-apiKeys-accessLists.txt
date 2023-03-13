@@ -13,7 +13,6 @@ mongocli iam organizations apiKeys accessLists
    :class: singlecol
 
 Manage the IP access list for your API Key.
-
 Options
 -------
 

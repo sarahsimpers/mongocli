@@ -13,7 +13,6 @@ mongocli atlas cloudProviders accessRoles
    :class: singlecol
 
 Manage AWS IAM role access in Atlas.
-
 Options
 -------
 

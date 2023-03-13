@@ -15,7 +15,6 @@ atlas integrations delete
 Remove the specified third-party integration from your project.
 
 Deleting an integration from a project removes that integration configuration only for that project. This does not affect any other project or organization's configured integrations.
-
 Syntax
 ------
 

@@ -13,7 +13,6 @@ mongocli ops-manager clusters startup
    :class: singlecol
 
 Start up a cluster for your project.
-
 Syntax
 ------
 

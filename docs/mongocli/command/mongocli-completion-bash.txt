@@ -27,7 +27,6 @@ MacOS:
 $ mongocli completion bash > /usr/local/etc/bash_completion.d/mongocli
 You will need to start a new shell for this setup to take effect.
 
-
 Syntax
 ------
 

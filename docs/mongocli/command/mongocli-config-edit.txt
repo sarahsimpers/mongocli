@@ -15,7 +15,6 @@ mongocli config edit
 Opens the config file with the default text editor.
 
 Uses the default editor to open the config file. You can use EDITOR or VISUAL envs to change the default.
-
 Syntax
 ------
 

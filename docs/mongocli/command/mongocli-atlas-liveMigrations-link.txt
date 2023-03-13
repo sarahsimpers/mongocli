@@ -13,7 +13,6 @@ mongocli atlas liveMigrations link
    :class: singlecol
 
 Manage the link-token for your organization.
-
 Options
 -------
 

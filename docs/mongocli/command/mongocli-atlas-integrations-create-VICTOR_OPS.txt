@@ -17,7 +17,6 @@ Create or update a Splunk On-Call integration for your project.
 VictorOps is now Splunk On-Call.
 		
 The requesting API key must have the Organization Owner or Project Owner role to configure an integration with Splunk On-Call.
-
 Syntax
 ------
 
@@ -78,12 +77,13 @@ Inherited Options
 Output
 ------
 
-If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values:
+If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values. The | symbol represents a horizontal tab.
 
 .. code-block::
 
    Victor Ops integration configured.
    
+
 
 Examples
 --------

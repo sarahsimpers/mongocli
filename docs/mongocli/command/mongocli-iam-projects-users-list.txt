@@ -13,7 +13,6 @@ mongocli iam projects users list
    :class: singlecol
 
 Return all users for a project.
-
 Syntax
 ------
 

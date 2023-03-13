@@ -13,7 +13,6 @@ atlas privateEndpoints gcp delete
    :class: singlecol
 
 Delete a GCP private endpoint for your project.
-
 Syntax
 ------
 

@@ -15,7 +15,6 @@ mongocli iam organizations
 Manage your Ops Manager or Cloud Manager organizations.
 
 Create, list and manage your MongoDB organizations.
-
 Options
 -------
 

@@ -13,7 +13,6 @@ atlas config init
    :class: singlecol
 
 Configure a profile to store access settings for your MongoDB deployment.
-
 Syntax
 ------
 

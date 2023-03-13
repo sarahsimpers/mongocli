@@ -13,7 +13,6 @@ mongocli iam projects invitations list
    :class: singlecol
 
 Return all pending invitations to your project.
-
 Syntax
 ------
 

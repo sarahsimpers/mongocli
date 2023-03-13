@@ -13,7 +13,6 @@ mongocli atlas customDbRoles
    :class: singlecol
 
 Manage custom database roles for your project.
-
 Options
 -------
 

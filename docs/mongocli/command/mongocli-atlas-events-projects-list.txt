@@ -13,7 +13,6 @@ mongocli atlas events projects list
    :class: singlecol
 
 Return all events for the specified project.
-
 Syntax
 ------
 

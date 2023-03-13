@@ -13,7 +13,6 @@ mongocli atlas privateEndpoints onlineArchive
    :class: singlecol
 
 Manage Online Archive private endpoints.
-
 Options
 -------
 

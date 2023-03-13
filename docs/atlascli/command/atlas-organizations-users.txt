@@ -13,7 +13,6 @@ atlas organizations users
    :class: singlecol
 
 Manage your Atlas users.
-
 Options
 -------
 

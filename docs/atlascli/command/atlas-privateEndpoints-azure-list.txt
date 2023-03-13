@@ -13,7 +13,6 @@ atlas privateEndpoints azure list
    :class: singlecol
 
 Return all Azure private endpoints for your project.
-
 Syntax
 ------
 

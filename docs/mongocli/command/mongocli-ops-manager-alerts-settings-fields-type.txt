@@ -13,7 +13,6 @@ mongocli ops-manager alerts settings fields type
    :class: singlecol
 
 Return all available field types that the matcherFieldName option accepts when you create or update an alert configuration.
-
 Syntax
 ------
 

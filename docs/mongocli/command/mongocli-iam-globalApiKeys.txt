@@ -13,7 +13,6 @@ mongocli iam globalApiKeys
    :class: singlecol
 
 Global API Keys operations.
-
 Options
 -------
 

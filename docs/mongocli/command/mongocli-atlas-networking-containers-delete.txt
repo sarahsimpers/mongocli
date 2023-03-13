@@ -13,7 +13,6 @@ mongocli atlas networking containers delete
    :class: singlecol
 
 Remove the specified network peering container from your project.
-
 Syntax
 ------
 

@@ -13,7 +13,6 @@ mongocli ops-manager backups config update
    :class: singlecol
 
 Update a backup configuration.
-
 Syntax
 ------
 

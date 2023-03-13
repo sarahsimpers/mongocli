@@ -17,7 +17,6 @@ Create a MongoDB user for your MongoDB application and invite the MongoDB user t
 A MongoDB user account grants access only to the the MongoDB application. To grant database access, create a database user with mongocli dbusers create.
 		
 User accounts and API keys with any role can run this command.
-
 Syntax
 ------
 

@@ -15,7 +15,6 @@ atlas projects invitations
 Invitation operations.
 
 Create, list and manage your MongoDB project invites.
-
 Options
 -------
 

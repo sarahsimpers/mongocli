@@ -15,7 +15,6 @@ mongocli atlas alerts settings
 Manages alerts configuration for your project.
 
 Use this command to list, create, edit, delete, enable and disable alert configurations.
-
 Options
 -------
 

@@ -13,7 +13,6 @@ mongocli ops-manager clusters create
    :class: singlecol
 
 Create a MongoDB cluster.
-
 Syntax
 ------
 

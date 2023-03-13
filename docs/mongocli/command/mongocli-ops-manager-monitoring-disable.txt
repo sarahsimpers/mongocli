@@ -13,7 +13,6 @@ mongocli ops-manager monitoring disable
    :class: singlecol
 
 Disable monitoring for a given hostname
-
 Syntax
 ------
 

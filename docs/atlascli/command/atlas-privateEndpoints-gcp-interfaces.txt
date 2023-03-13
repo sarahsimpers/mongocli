@@ -13,7 +13,6 @@ atlas privateEndpoints gcp interfaces
    :class: singlecol
 
 Manage Atlas GCP private endpoint interfaces.
-
 Options
 -------
 

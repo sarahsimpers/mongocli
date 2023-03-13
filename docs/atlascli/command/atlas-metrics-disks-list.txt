@@ -16,7 +16,6 @@ Return all disks or disk partitions on the specified host for your project.
 
 To return the hostname and port needed for this command, run:
 $ atlas processes list
-
 Syntax
 ------
 

@@ -13,7 +13,6 @@ mongocli ops-manager admin backups blockstores delete
    :class: singlecol
 
 Delete a backup blockstore configuration.
-
 Syntax
 ------
 

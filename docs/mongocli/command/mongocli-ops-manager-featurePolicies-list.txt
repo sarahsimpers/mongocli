@@ -13,7 +13,6 @@ mongocli ops-manager featurePolicies list
    :class: singlecol
 
 List feature control policies for your project.
-
 Syntax
 ------
 

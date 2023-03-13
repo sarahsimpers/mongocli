@@ -13,7 +13,6 @@ mongocli ops-manager alerts list
    :class: singlecol
 
 Return all alerts for your project.
-
 Syntax
 ------
 

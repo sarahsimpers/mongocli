@@ -13,7 +13,6 @@ mongocli cloud-manager monitoring
    :class: singlecol
 
 Manage monitoring for your project.
-
 Options
 -------
 

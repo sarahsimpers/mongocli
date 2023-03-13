@@ -13,7 +13,6 @@ mongocli ops-manager servers
    :class: singlecol
 
 Manage automated servers for your project.
-
 Options
 -------
 

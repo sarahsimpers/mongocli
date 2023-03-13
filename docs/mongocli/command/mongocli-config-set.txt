@@ -13,7 +13,6 @@ mongocli config set
    :class: singlecol
 
 Configure specific properties of a profile.
-
 Syntax
 ------
 

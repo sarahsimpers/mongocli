@@ -13,7 +13,6 @@ mongocli ops-manager security enable
    :class: singlecol
 
 Enable authentication mechanisms for your project.
-
 Syntax
 ------
 

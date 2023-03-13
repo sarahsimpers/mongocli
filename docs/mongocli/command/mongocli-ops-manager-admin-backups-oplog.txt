@@ -13,7 +13,6 @@ mongocli ops-manager admin backups oplog
    :class: singlecol
 
 Manage backup oplog configurations.
-
 Options
 -------
 

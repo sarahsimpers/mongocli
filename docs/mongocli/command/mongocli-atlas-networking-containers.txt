@@ -13,7 +13,6 @@ mongocli atlas networking containers
    :class: singlecol
 
 Manage Network Peering containers.
-
 Options
 -------
 

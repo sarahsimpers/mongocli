@@ -13,7 +13,6 @@ mongocli atlas accessLists
    :class: singlecol
 
 Manage the list of IP addresses that can access your Atlas project.
-
 Options
 -------
 

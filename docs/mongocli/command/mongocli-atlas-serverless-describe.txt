@@ -13,7 +13,6 @@ mongocli atlas serverless describe
    :class: singlecol
 
 Return one serverless instance in the specified project.
-
 Syntax
 ------
 

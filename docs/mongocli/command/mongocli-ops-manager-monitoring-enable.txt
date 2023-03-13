@@ -13,7 +13,6 @@ mongocli ops-manager monitoring enable
    :class: singlecol
 
 Enable monitoring for a given hostname
-
 Syntax
 ------
 

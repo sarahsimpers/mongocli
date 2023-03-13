@@ -15,7 +15,6 @@ atlas events projects
 Project operations.
 
 List projects events.
-
 Options
 -------
 

@@ -13,7 +13,6 @@ atlas metrics disks
    :class: singlecol
 
 List available disks or disk metrics for a given host.
-
 Options
 -------
 

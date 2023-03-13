@@ -13,7 +13,6 @@ mongocli atlas maintenanceWindows
    :class: singlecol
 
 Manage Atlas maintenance windows.
-
 Options
 -------
 

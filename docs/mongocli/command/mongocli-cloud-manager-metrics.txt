@@ -13,7 +13,6 @@ mongocli cloud-manager metrics
    :class: singlecol
 
 Get measurements on the state of the MongoDB process.
-
 Options
 -------
 

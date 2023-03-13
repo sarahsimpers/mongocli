@@ -13,7 +13,6 @@ mongocli cloud-manager maintenanceWindows update
    :class: singlecol
 
 Update a maintenance window.
-
 Syntax
 ------
 

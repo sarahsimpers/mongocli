@@ -15,7 +15,6 @@ atlas teams
 Manage your Atlas teams.
 
 Create, list and manage your Atlas teams.
-
 Options
 -------
 

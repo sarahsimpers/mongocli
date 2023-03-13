@@ -13,7 +13,6 @@ atlas clusters search indexes
    :class: singlecol
 
 Manage Atlas Search indexes for your cluster.
-
 Options
 -------
 

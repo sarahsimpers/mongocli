@@ -15,7 +15,6 @@ atlas projects create
 Create a project in your organization.
 
 Projects group clusters into logical collections that support an application environment, workload, or both. Each project can have its own users, teams, security, and alert settings.
-
 Syntax
 ------
 
@@ -96,12 +95,13 @@ Inherited Options
 Output
 ------
 
-If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values:
+If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values. The | symbol represents a horizontal tab.
 
 .. code-block::
 
    Project '<ID>' created.
    
+
 
 Examples
 --------

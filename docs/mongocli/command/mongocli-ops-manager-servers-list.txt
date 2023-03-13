@@ -13,7 +13,6 @@ mongocli ops-manager servers list
    :class: singlecol
 
 List all available servers running an automation agent for your project.
-
 Syntax
 ------
 

@@ -13,7 +13,6 @@ mongocli atlas privateEndpoints aws interfaces
    :class: singlecol
 
 Manage Atlas AWS private endpoint interfaces.
-
 Options
 -------
 

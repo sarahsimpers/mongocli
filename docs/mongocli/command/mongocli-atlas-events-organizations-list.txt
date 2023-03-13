@@ -13,7 +13,6 @@ mongocli atlas events organizations list
    :class: singlecol
 
 Return all events for the specified organization.
-
 Syntax
 ------
 

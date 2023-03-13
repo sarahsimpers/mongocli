@@ -15,7 +15,6 @@ atlas backups exports buckets create
 Create an export destination for Atlas backups using an existing AWS S3 bucket.
 
 To use this command, you must authenticate with a user account or an API key that has the Project Owner role.
-
 Syntax
 ------
 
@@ -92,12 +91,13 @@ Inherited Options
 Output
 ------
 
-If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values:
+If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values. The | symbol represents a horizontal tab.
 
 .. code-block::
 
    Export destination created using '<BucketName>'.
    
+
 
 Examples
 --------

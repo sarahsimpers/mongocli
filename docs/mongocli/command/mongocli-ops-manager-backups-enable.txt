@@ -13,7 +13,6 @@ mongocli ops-manager backups enable
    :class: singlecol
 
 Enable backup for a given hostname
-
 Syntax
 ------
 

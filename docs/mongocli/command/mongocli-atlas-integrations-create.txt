@@ -13,7 +13,6 @@ mongocli atlas integrations create
    :class: singlecol
 
 Create operations.
-
 Options
 -------
 

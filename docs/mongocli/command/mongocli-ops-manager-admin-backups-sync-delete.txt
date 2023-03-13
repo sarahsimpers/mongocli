@@ -13,7 +13,6 @@ mongocli ops-manager admin backups sync delete
    :class: singlecol
 
 Delete a backup sync configuration.
-
 Syntax
 ------
 

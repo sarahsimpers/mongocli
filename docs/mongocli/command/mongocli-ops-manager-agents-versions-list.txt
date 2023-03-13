@@ -13,7 +13,6 @@ mongocli ops-manager agents versions list
    :class: singlecol
 
 List MongoDB Agent versions in the provided project.
-
 Syntax
 ------
 

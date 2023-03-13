@@ -13,7 +13,6 @@ mongocli ops-manager serverUsage projects hosts list
    :class: singlecol
 
 List all host assignments for one project.
-
 Syntax
 ------
 

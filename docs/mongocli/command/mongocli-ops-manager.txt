@@ -13,7 +13,6 @@ mongocli ops-manager
    :class: singlecol
 
 MongoDB Ops Manager operations.
-
 Options
 -------
 

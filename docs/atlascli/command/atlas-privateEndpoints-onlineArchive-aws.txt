@@ -13,7 +13,6 @@ atlas privateEndpoints onlineArchive aws
    :class: singlecol
 
 Manage AWS private endpoints.
-
 Options
 -------
 

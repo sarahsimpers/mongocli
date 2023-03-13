@@ -13,7 +13,6 @@ mongocli cloud-manager logs
    :class: singlecol
 
 Manage log collection jobs for your project.
-
 Options
 -------
 

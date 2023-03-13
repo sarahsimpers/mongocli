@@ -15,7 +15,6 @@ atlas teams users
 Manage your Atlas users.
 
 Create, list and manage your users.
-
 Options
 -------
 

@@ -15,7 +15,6 @@ atlas organizations apiKeys accessLists create
 Create an IP access list entry for your API Key.
 
 To view possible values for the apiKey option, run atlas organizations apiKeys list.
-
 Syntax
 ------
 
@@ -84,12 +83,13 @@ Inherited Options
 Output
 ------
 
-If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values:
+If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values. The | symbol represents a horizontal tab.
 
 .. code-block::
 
    Created new access list entry(s).
    
+
 
 Examples
 --------

@@ -13,7 +13,6 @@ atlas projects teams list
    :class: singlecol
 
 Return all teams for a project.
-
 Syntax
 ------
 

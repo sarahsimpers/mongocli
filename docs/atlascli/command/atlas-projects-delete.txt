@@ -13,7 +13,6 @@ atlas projects delete
    :class: singlecol
 
 Remove the specified project.
-
 Syntax
 ------
 

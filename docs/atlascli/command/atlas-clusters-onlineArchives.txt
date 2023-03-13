@@ -13,7 +13,6 @@ atlas clusters onlineArchives
    :class: singlecol
 
 Manage online archives for your cluster.
-
 Options
 -------
 

@@ -13,7 +13,6 @@ mongocli cloud-manager logs decrypt
    :class: singlecol
 
 Decrypts an audit log file with the provided local key file or with a server that supports KMIP.
-
 Syntax
 ------
 

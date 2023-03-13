@@ -13,7 +13,6 @@ mongocli iam organizations apiKeys list
    :class: singlecol
 
 Return all API keys for your organization.
-
 Syntax
 ------
 

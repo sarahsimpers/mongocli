@@ -13,7 +13,6 @@ mongocli iam projects delete
    :class: singlecol
 
 Remove the specified project.
-
 Syntax
 ------
 

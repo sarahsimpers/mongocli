@@ -13,7 +13,6 @@ mongocli cloud-manager backups config describe
    :class: singlecol
 
 Get a backup configuration.
-
 Syntax
 ------
 

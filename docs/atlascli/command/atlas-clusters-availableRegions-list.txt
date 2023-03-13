@@ -13,7 +13,6 @@ atlas clusters availableRegions list
    :class: singlecol
 
 List available regions that Atlas supports for new deployments.
-
 Syntax
 ------
 

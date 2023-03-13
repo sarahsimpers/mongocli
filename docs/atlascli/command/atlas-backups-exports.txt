@@ -13,7 +13,6 @@ atlas backups exports
    :class: singlecol
 
 Manage cloud backup export jobs for your project.
-
 Options
 -------
 

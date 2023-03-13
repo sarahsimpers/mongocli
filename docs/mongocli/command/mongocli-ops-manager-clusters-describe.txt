@@ -16,7 +16,6 @@ Describe a cluster.
 
 When describing cluster with no output format please provide the cluster ID.
 When using an output format the please provide the cluster name.
-
 Syntax
 ------
 

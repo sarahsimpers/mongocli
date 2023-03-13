@@ -13,7 +13,6 @@ mongocli cloud-manager performanceAdvisor namespaces
    :class: singlecol
 
 Retrieve namespaces for collections experiencing slow queries
-
 Options
 -------
 

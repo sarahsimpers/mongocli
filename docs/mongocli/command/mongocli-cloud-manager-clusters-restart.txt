@@ -13,7 +13,6 @@ mongocli cloud-manager clusters restart
    :class: singlecol
 
 Restart a cluster for your project.
-
 Syntax
 ------
 

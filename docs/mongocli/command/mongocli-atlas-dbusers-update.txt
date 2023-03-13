@@ -13,7 +13,6 @@ mongocli atlas dbusers update
    :class: singlecol
 
 Modify the details for a database user for your project.
-
 Syntax
 ------
 

@@ -13,7 +13,6 @@ atlas security
    :class: singlecol
 
 Manage security configuration for your project.
-
 Options
 -------
 

@@ -13,7 +13,6 @@ mongocli atlas privateEndpoints azure interfaces describe
    :class: singlecol
 
 Return the details for the specified Azure private endpoint interface for your project.
-
 Syntax
 ------
 

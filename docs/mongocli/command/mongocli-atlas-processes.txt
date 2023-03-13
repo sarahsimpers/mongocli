@@ -13,7 +13,6 @@ mongocli atlas processes
    :class: singlecol
 
 Manage MongoDB processes for your project.
-
 Options
 -------
 

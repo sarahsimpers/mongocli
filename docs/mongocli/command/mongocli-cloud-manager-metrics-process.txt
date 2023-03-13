@@ -13,7 +13,6 @@ mongocli cloud-manager metrics process
    :class: singlecol
 
 Get measurements for a given host.
-
 Syntax
 ------
 

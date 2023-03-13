@@ -13,7 +13,6 @@ atlas networking containers list
    :class: singlecol
 
 Return all network peering containers for your project.
-
 Syntax
 ------
 

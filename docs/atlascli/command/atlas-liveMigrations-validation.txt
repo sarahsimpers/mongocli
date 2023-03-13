@@ -13,7 +13,6 @@ atlas liveMigrations validation
    :class: singlecol
 
 Manage a Live Migration validation job for your project.
-
 Options
 -------
 

@@ -13,7 +13,6 @@ mongocli ops-manager diagnoseArchives
    :class: singlecol
 
 Manage diagnose archives.
-
 Options
 -------
 

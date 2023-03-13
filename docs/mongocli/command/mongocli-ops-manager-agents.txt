@@ -13,7 +13,6 @@ mongocli ops-manager agents
    :class: singlecol
 
 Manage MongoDB Agents.
-
 Options
 -------
 

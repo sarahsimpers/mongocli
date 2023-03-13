@@ -13,7 +13,6 @@ atlas alerts settings create
    :class: singlecol
 
 Create an alert configuration for your project.
-
 Syntax
 ------
 
@@ -174,12 +173,13 @@ Inherited Options
 Output
 ------
 
-If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values:
+If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values. The | symbol represents a horizontal tab.
 
 .. code-block::
 
    Alert configuration <ID> created.
    
+
 
 Examples
 --------

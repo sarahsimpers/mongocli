@@ -13,7 +13,6 @@ atlas backups schedule
    :class: singlecol
 
 Return a cloud backup schedule for the cluster you specify.
-
 Options
 -------
 

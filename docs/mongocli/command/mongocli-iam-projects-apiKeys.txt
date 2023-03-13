@@ -13,7 +13,6 @@ mongocli iam projects apiKeys
    :class: singlecol
 
 Manage API Keys for your project.
-
 Options
 -------
 

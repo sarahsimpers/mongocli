@@ -13,7 +13,6 @@ mongocli cloud-manager backups snapshots schedule update
    :class: singlecol
 
 Update a snapshot schedule for a cluster.
-
 Syntax
 ------
 

@@ -13,7 +13,6 @@ mongocli cloud-manager metrics databases list
    :class: singlecol
 
 List available databases for a given host.
-
 Syntax
 ------
 

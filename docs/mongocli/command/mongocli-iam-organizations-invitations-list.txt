@@ -13,7 +13,6 @@ mongocli iam organizations invitations list
    :class: singlecol
 
 Return all pending invitations to your organization.
-
 Syntax
 ------
 

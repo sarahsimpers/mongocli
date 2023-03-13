@@ -13,7 +13,6 @@ atlas organizations create
    :class: singlecol
 
 Create an Ops Manager or Cloud Manager organization. This command is unavailable for Atlas.
-
 Syntax
 ------
 

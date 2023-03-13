@@ -13,7 +13,6 @@ atlas projects settings describe
    :class: singlecol
 
 Retrieve details for settings to the specified project.
-
 Syntax
 ------
 

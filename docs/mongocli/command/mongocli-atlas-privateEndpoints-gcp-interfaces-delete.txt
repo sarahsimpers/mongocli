@@ -13,7 +13,6 @@ mongocli atlas privateEndpoints gcp interfaces delete
    :class: singlecol
 
 Delete a specific GCP private endpoint interface for your project.
-
 Syntax
 ------
 

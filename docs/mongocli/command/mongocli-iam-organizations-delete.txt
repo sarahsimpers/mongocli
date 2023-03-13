@@ -15,7 +15,6 @@ mongocli iam organizations delete
 Remove the specified organization.
 
 Organizations with active projects can't be removed.
-
 Syntax
 ------
 

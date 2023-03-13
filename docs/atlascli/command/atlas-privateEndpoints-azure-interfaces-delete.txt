@@ -13,7 +13,6 @@ atlas privateEndpoints azure interfaces delete
    :class: singlecol
 
 Remove the specified Azure private endpoint interface and related service from your project.
-
 Syntax
 ------
 

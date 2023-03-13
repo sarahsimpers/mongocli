@@ -13,7 +13,6 @@ mongocli ops-manager dbusers create
    :class: singlecol
 
 Create a database user for your project.
-
 Syntax
 ------
 

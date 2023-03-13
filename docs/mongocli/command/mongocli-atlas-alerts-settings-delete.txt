@@ -13,7 +13,6 @@ mongocli atlas alerts settings delete
    :class: singlecol
 
 Remove the specified alert configuration for your project.
-
 Syntax
 ------
 

@@ -13,7 +13,6 @@ mongocli cloud-manager agents list
    :class: singlecol
 
 List available MongoDB Agents for your project.
-
 Syntax
 ------
 

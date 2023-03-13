@@ -13,7 +13,6 @@ mongocli ops-manager agents apiKeys list
    :class: singlecol
 
 List available MongoDB Agent API Keys for your project.
-
 Syntax
 ------
 

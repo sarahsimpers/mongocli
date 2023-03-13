@@ -13,7 +13,6 @@ mongocli iam teams users list
    :class: singlecol
 
 Return all users for a team.
-
 Syntax
 ------
 

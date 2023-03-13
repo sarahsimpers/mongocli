@@ -13,7 +13,6 @@ mongocli cloud-manager dbusers list
    :class: singlecol
 
 List Atlas database users for your project.
-
 Syntax
 ------
 

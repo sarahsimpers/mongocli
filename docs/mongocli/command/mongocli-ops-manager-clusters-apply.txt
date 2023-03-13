@@ -13,7 +13,6 @@ mongocli ops-manager clusters apply
    :class: singlecol
 
 Apply a new cluster configuration for your project.
-
 Syntax
 ------
 

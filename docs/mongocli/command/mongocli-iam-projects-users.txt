@@ -13,7 +13,6 @@ mongocli iam projects users
    :class: singlecol
 
 Manage users for a project.
-
 Options
 -------
 

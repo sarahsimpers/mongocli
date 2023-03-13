@@ -13,7 +13,6 @@ atlas security ldap delete
    :class: singlecol
 
 Remove the current LDAP configuration captured in the userToDNMapping document from your project.
-
 Syntax
 ------
 

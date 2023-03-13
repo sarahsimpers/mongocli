@@ -16,7 +16,6 @@ List clusters for your project.
 
 When listing clusters with no output format the information provided is defined by monitoring.
 When using an output format the information will be provided by automation.
-
 Syntax
 ------
 

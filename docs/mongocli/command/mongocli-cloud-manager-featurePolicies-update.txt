@@ -15,7 +15,6 @@ mongocli cloud-manager featurePolicies update
 Update feature control policies for your project.
 
 Feature Control Policies allow you to enable or disable certain MongoDB features based on your site-specific needs.
-
 Syntax
 ------
 

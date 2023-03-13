@@ -15,7 +15,6 @@ atlas teams users add
 Add the specified MongoDB user to a team for your organization.
 
 Users must be current members of your organization before you can add them to a team.
-
 Syntax
 ------
 
@@ -88,12 +87,13 @@ Inherited Options
 Output
 ------
 
-If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values:
+If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values. The | symbol represents a horizontal tab.
 
 .. code-block::
 
    User(s) added to the team.
    
+
 
 Examples
 --------

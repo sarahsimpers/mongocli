@@ -13,7 +13,6 @@ atlas projects invitations delete
    :class: singlecol
 
 Remove the specified pending invitation to your project.
-
 Syntax
 ------
 

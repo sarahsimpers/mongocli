@@ -13,7 +13,6 @@ mongocli ops-manager backups config
    :class: singlecol
 
 Manage backup configurations for your project.
-
 Options
 -------
 

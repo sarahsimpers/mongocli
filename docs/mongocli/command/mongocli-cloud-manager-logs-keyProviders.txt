@@ -13,7 +13,6 @@ mongocli cloud-manager logs keyProviders
    :class: singlecol
 
 Manage your key collections.
-
 Options
 -------
 

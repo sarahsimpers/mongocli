@@ -15,7 +15,6 @@ mongocli iam users
 Manage your Ops Manager or Cloud Manager users.
 
 Create, list and manage your Cloud Manager or Ops Manager users.
-
 Options
 -------
 

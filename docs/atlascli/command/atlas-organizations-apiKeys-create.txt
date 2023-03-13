@@ -15,7 +15,6 @@ atlas organizations apiKeys create
 Create an API Key for your organization.
 
 MongoDB returns the private API key only once. After you run this command, immediately copy, save, and secure both the public and private API keys.
-
 Syntax
 ------
 
@@ -76,14 +75,15 @@ Inherited Options
 Output
 ------
 
-If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values:
+If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values. The | symbol represents a horizontal tab.
 
 .. code-block::
 
-   API Key '<ID>' created.
+API Key '<ID>' created.
    Public API Key <PublicKey>
    Private API Key <PrivateKey>
    
+
 
 Examples
 --------

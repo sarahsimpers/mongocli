@@ -13,7 +13,6 @@ mongocli ops-manager serverUsage projects serverType set
    :class: singlecol
 
 Set the default server type for a project.
-
 Syntax
 ------
 

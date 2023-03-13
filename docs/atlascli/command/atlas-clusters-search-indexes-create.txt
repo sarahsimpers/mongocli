@@ -15,7 +15,6 @@ atlas clusters search indexes create
 Create a search index for a cluster.
 
 To use this command, you must authenticate with a user account or an API key that has the Project Data Access Admin role.
-
 Syntax
 ------
 
@@ -92,12 +91,13 @@ Inherited Options
 Output
 ------
 
-If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values:
+If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values. The | symbol represents a horizontal tab.
 
 .. code-block::
 
    Index <Name> created.
    
+
 
 Examples
 --------

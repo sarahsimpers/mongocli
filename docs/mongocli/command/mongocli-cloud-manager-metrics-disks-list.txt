@@ -13,7 +13,6 @@ mongocli cloud-manager metrics disks list
    :class: singlecol
 
 List available disks for a given host.
-
 Syntax
 ------
 

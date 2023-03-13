@@ -13,7 +13,6 @@ atlas auth login
    :class: singlecol
 
 Authenticate with MongoDB Atlas.
-
 Syntax
 ------
 

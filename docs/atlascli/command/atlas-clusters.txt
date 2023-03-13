@@ -15,7 +15,6 @@ atlas clusters
 Manage clusters for your project.
 
 The clusters command provides access to your cluster configurations. You can create, edit, and delete clusters.
-
 Options
 -------
 

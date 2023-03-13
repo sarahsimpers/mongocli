@@ -13,7 +13,6 @@ atlas liveMigrations link delete
    :class: singlecol
 
 Delete one link-token.
-
 Syntax
 ------
 

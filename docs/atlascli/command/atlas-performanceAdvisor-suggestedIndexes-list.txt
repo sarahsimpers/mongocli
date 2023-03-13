@@ -15,7 +15,6 @@ atlas performanceAdvisor suggestedIndexes list
 Return the suggested indexes for collections experiencing slow queries.
 
 The Performance Advisor monitors queries that MongoDB considers slow and suggests new indexes to improve query performance.
-
 Syntax
 ------
 

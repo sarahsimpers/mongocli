@@ -13,7 +13,6 @@ atlas privateEndpoints aws list
    :class: singlecol
 
 Return all AWS private endpoints for your project.
-
 Syntax
 ------
 

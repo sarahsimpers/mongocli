@@ -13,7 +13,6 @@ mongocli iam globalApiKeys create
    :class: singlecol
 
 Create a global API key for your Ops Manager instance.
-
 Syntax
 ------
 

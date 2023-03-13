@@ -20,7 +20,6 @@ $ atlas config set --help
 
 You can also use environment variables (MONGODB_ATLAS_*) when running the tool.
 To find out more, see the documentation: https://dochub.mongodb.org/core/atlas-cli-env-variables.
-
 Options
 -------
 

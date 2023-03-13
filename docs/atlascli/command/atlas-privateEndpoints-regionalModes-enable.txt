@@ -15,7 +15,6 @@ atlas privateEndpoints regionalModes enable
 Enable the regionalized private endpoint setting for your project.
 
 This enables the ability to create multiple private resources per region in all cloud service providers for this project.
-
 Syntax
 ------
 
@@ -68,12 +67,13 @@ Inherited Options
 Output
 ------
 
-If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values:
+If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values. The | symbol represents a horizontal tab.
 
 .. code-block::
 
    Regionalized private endpoint setting enabled.
    
+
 
 Examples
 --------

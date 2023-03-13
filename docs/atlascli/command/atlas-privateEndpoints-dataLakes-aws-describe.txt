@@ -13,7 +13,6 @@ atlas privateEndpoints dataLakes aws describe
    :class: singlecol
 
 Return a specific Data Lake private endpoint for your project.
-
 Syntax
 ------
 

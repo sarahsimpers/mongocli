@@ -13,7 +13,6 @@ mongocli ops-manager admin
    :class: singlecol
 
 Manage backup administration.
-
 Options
 -------
 

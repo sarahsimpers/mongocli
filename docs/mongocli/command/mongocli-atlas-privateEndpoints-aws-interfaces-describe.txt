@@ -13,7 +13,6 @@ mongocli atlas privateEndpoints aws interfaces describe
    :class: singlecol
 
 Return the details for the specified AWS private endpoint interface for your project.
-
 Syntax
 ------
 

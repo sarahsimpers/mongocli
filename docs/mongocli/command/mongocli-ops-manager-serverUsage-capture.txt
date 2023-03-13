@@ -13,7 +13,6 @@ mongocli ops-manager serverUsage capture
    :class: singlecol
 
 Capture a snapshot of usage for the processes Ops Manager manages.
-
 Syntax
 ------
 

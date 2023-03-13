@@ -13,7 +13,6 @@ atlas events
    :class: singlecol
 
 Manage events for your organization or project.
-
 Options
 -------
 

@@ -13,7 +13,6 @@ atlas privateEndpoints dataLakes
    :class: singlecol
 
 Manage Data Lake private endpoints.
-
 Options
 -------
 

@@ -13,7 +13,6 @@ atlas integrations list
    :class: singlecol
 
 Return all active third-party integrations for your project.
-
 Syntax
 ------
 

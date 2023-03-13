@@ -15,7 +15,6 @@ atlas kubernetes
 Manage kubernetes resources.
 
 The kubernetes command provides access to kubernetes features of the atlas.
-
 Options
 -------
 

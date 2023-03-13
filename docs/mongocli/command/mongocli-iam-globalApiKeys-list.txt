@@ -13,7 +13,6 @@ mongocli iam globalApiKeys list
    :class: singlecol
 
 Return all global API keys for your Ops Manager instance.
-
 Syntax
 ------
 

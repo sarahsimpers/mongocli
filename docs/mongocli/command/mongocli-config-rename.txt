@@ -13,7 +13,6 @@ mongocli config rename
    :class: singlecol
 
 Rename a profile.
-
 Syntax
 ------
 

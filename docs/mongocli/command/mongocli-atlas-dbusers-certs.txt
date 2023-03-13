@@ -13,7 +13,6 @@ mongocli atlas dbusers certs
    :class: singlecol
 
 Manage Atlas x509 certificates for your database users.
-
 Options
 -------
 

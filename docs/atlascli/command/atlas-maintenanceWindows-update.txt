@@ -15,7 +15,6 @@ atlas maintenanceWindows update
 Modify the maintenance window for your project.
 
 To learn more about maintenance windows, see https://www.mongodb.com/docs/atlas/tutorial/cluster-maintenance-window/.
-
 Syntax
 ------
 

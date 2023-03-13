@@ -15,7 +15,6 @@ atlas security customerCerts disable
 Clear customer-managed X.509 settings on a project, including the uploaded Certificate Authority, and disable self-managed X.509.
 
 Disabling customer-managed X.509 triggers a rolling restart.
-
 Syntax
 ------
 

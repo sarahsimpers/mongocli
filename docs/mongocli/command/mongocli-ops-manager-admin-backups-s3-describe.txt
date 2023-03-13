@@ -13,7 +13,6 @@ mongocli ops-manager admin backups s3 describe
    :class: singlecol
 
 Get a backup s3 blockstore configuration.
-
 Syntax
 ------
 

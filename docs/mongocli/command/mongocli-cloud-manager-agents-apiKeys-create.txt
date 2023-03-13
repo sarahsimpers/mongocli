@@ -13,7 +13,6 @@ mongocli cloud-manager agents apiKeys create
    :class: singlecol
 
 Create an Agent API Key for your project.
-
 Syntax
 ------
 

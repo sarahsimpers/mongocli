@@ -13,7 +13,6 @@ mongocli cloud-manager clusters indexes create
    :class: singlecol
 
 Create a rolling index for your MongoDB cluster.
-
 Syntax
 ------
 

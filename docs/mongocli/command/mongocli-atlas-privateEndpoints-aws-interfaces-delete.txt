@@ -13,7 +13,6 @@ mongocli atlas privateEndpoints aws interfaces delete
    :class: singlecol
 
 Remove the specified AWS private endpoint interface and related service from your project.
-
 Syntax
 ------
 

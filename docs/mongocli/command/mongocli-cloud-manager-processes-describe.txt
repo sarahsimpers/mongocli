@@ -13,7 +13,6 @@ mongocli cloud-manager processes describe
    :class: singlecol
 
 Describe MongoDB processes for your project.
-
 Syntax
 ------
 

@@ -15,7 +15,6 @@ mongocli cloud-manager clusters unmanage
 Stop managing a cluster via automation.
 
 This commands only removes entries from the automation config but does not actually remove a cluster.
-
 Syntax
 ------
 

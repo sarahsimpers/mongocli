@@ -13,7 +13,6 @@ mongocli cloud-manager backups
    :class: singlecol
 
 Manage continuous backups for your project.
-
 Options
 -------
 

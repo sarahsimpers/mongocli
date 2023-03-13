@@ -13,7 +13,6 @@ atlas networking peering
    :class: singlecol
 
 Manage Network Peering connections.
-
 Options
 -------
 

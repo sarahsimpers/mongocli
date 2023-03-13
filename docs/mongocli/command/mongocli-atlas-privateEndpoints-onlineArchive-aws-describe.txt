@@ -13,7 +13,6 @@ mongocli atlas privateEndpoints onlineArchive aws describe
    :class: singlecol
 
 Return a specific Data Lake private endpoint for your project.
-
 Syntax
 ------
 

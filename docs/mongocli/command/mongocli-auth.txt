@@ -13,7 +13,6 @@ mongocli auth
    :class: singlecol
 
 Manage the CLI's authentication state.
-
 Options
 -------
 

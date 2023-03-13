@@ -13,7 +13,6 @@ atlas integrations
    :class: singlecol
 
 Configure third-party integrations for your Atlas project.
-
 Options
 -------
 

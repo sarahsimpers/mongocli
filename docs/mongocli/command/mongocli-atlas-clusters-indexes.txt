@@ -13,7 +13,6 @@ mongocli atlas clusters indexes
    :class: singlecol
 
 Manage cluster rolling indexes for your project.
-
 Options
 -------
 

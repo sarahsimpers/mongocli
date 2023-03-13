@@ -13,7 +13,6 @@ mongocli atlas integrations describe
    :class: singlecol
 
 Return the details for the specified third-party integration for your project.
-
 Syntax
 ------
 

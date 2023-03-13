@@ -13,7 +13,6 @@ atlas organizations users list
    :class: singlecol
 
 Return all users for an organization.
-
 Syntax
 ------
 

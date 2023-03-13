@@ -13,7 +13,6 @@ mongocli cloud-manager logs keyProviders list
    :class: singlecol
 
 Lists all key provider configurations found in the encrypted audit log file.
-
 Syntax
 ------
 

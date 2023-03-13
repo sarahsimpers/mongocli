@@ -15,7 +15,6 @@ atlas
 CLI tool to manage MongoDB Atlas
 
 Use atlas command help for information on a specific command
-
 Options
 -------
 

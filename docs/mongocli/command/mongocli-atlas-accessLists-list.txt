@@ -13,7 +13,6 @@ mongocli atlas accessLists list
    :class: singlecol
 
 Return all IP access list entries for your project.
-
 Syntax
 ------
 

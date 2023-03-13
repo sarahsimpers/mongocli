@@ -13,7 +13,6 @@ atlas security ldap
    :class: singlecol
 
 LDAP operations.
-
 Options
 -------
 

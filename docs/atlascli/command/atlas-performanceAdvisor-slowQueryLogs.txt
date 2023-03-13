@@ -13,7 +13,6 @@ atlas performanceAdvisor slowQueryLogs
    :class: singlecol
 
 Get log lines for slow queries for a specified host
-
 Options
 -------
 

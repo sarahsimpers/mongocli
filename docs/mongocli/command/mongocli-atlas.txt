@@ -13,7 +13,6 @@ mongocli atlas
    :class: singlecol
 
 MongoDB Atlas operations.
-
 Options
 -------
 

@@ -13,7 +13,6 @@ mongocli ops-manager admin backups sync
    :class: singlecol
 
 Manage backup sync configurations.
-
 Options
 -------
 

@@ -13,7 +13,6 @@ mongocli iam globalAccessLists create
    :class: singlecol
 
 Create an IP access list entry for your global API key.
-
 Syntax
 ------
 

@@ -13,7 +13,6 @@ mongocli iam organizations invitations delete
    :class: singlecol
 
 Remove the specified pending invitation to your organization.
-
 Syntax
 ------
 

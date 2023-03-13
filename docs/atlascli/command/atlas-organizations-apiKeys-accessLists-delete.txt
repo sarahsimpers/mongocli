@@ -13,7 +13,6 @@ atlas organizations apiKeys accessLists delete
    :class: singlecol
 
 Remove the specified IP access list entry from your API Key.
-
 Syntax
 ------
 

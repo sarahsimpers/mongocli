@@ -13,7 +13,6 @@ mongocli cloud-manager servers
    :class: singlecol
 
 Manage automated servers for your project.
-
 Options
 -------
 

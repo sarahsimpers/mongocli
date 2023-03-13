@@ -15,7 +15,6 @@ mongocli atlas dataLakes update
 Modify the specified federated database instance for your project.
 
 To learn more about Atlas Data Federation (previously named Atlas Data Lake), see https://www.mongodb.com/docs/atlas/data-federation/overview/.
-
 Syntax
 ------
 

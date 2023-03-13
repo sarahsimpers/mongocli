@@ -15,7 +15,6 @@ atlas organizations invitations
 Invitation operations.
 
 Create, list and manage your MongoDB organization invites.
-
 Options
 -------
 

@@ -15,7 +15,6 @@ atlas kubernetes config
 Manage Kubernetes configuration resources.
 
 This command provides your Kubernetes configuration access to Atlas.
-
 Options
 -------
 

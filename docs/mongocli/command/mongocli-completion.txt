@@ -17,7 +17,6 @@ Generate the autocompletion script for the specified shell
 Generate the autocompletion script for mongocli for the specified shell.
 See each sub-command's help for details on how to use the generated script.
 
-
 Options
 -------
 

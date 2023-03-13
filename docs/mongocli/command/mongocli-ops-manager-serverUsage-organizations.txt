@@ -13,7 +13,6 @@ mongocli ops-manager serverUsage organizations
    :class: singlecol
 
 Manage your server usage for an organization.
-
 Options
 -------
 

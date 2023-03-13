@@ -13,7 +13,6 @@ atlas privateEndpoints gcp
    :class: singlecol
 
 Manage GCP private endpoints.
-
 Options
 -------
 

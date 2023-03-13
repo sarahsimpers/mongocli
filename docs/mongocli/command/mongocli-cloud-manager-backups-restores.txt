@@ -13,7 +13,6 @@ mongocli cloud-manager backups restores
    :class: singlecol
 
 Manage restore jobs for your project.
-
 Options
 -------
 

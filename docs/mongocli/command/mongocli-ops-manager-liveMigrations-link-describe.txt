@@ -13,7 +13,6 @@ mongocli ops-manager liveMigrations link describe
    :class: singlecol
 
 Return the status of the connection between the specified source organization and the target MongoDB Atlas organization.
-
 Syntax
 ------
 

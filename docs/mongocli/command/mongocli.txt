@@ -15,7 +15,6 @@ mongocli
 CLI tool to manage your MongoDB Cloud
 
 Use mongocli command help for information on a specific command
-
 Options
 -------
 

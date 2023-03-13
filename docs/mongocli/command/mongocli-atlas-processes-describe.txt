@@ -13,7 +13,6 @@ mongocli atlas processes describe
    :class: singlecol
 
 Return the details for the specified MongoDB process for your project.
-
 Syntax
 ------
 

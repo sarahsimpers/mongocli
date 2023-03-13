@@ -13,7 +13,6 @@ mongocli ops-manager backups checkpoints
    :class: singlecol
 
 Manage backup checkpoints for your project.
-
 Options
 -------
 

@@ -13,7 +13,6 @@ atlas teams list
    :class: singlecol
 
 Return all teams for your organization.
-
 Syntax
 ------
 

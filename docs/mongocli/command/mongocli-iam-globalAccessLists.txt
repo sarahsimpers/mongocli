@@ -13,7 +13,6 @@ mongocli iam globalAccessLists
    :class: singlecol
 
 Manage IP access list for Global API Key.
-
 Options
 -------
 

@@ -13,7 +13,6 @@ mongocli ops-manager agents apiKeys delete
    :class: singlecol
 
 Delete an Agent API Key for your project.
-
 Syntax
 ------
 

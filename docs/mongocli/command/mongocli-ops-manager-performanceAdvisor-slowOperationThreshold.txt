@@ -13,7 +13,6 @@ mongocli ops-manager performanceAdvisor slowOperationThreshold
    :class: singlecol
 
 Enable or disable management of the slow operation threshold for your cluster.
-
 Options
 -------
 

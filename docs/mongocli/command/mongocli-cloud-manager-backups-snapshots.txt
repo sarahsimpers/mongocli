@@ -13,7 +13,6 @@ mongocli cloud-manager backups snapshots
    :class: singlecol
 
 Manage backup snapshots for your project.
-
 Options
 -------
 

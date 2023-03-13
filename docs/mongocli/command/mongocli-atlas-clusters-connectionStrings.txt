@@ -13,7 +13,6 @@ mongocli atlas clusters connectionStrings
    :class: singlecol
 
 Manage MongoDB cluster connection string.
-
 Options
 -------
 

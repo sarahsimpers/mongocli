@@ -13,7 +13,6 @@ atlas privateEndpoints gcp interfaces create
    :class: singlecol
 
 Create a GCP private endpoint interface.
-
 Syntax
 ------
 
@@ -94,12 +93,13 @@ Inherited Options
 Output
 ------
 
-If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values:
+If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values. The | symbol represents a horizontal tab.
 
 .. code-block::
 
    Interface endpoint '<EndpointGroupName>' created.
    
+
 
 Examples
 --------

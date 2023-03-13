@@ -13,7 +13,6 @@ mongocli cloud-manager alerts global list
    :class: singlecol
 
 Returns all global alerts for the specified Ops Manager project.
-
 Syntax
 ------
 

@@ -13,7 +13,6 @@ atlas projects teams
    :class: singlecol
 
 Manage your Atlas teams.
-
 Options
 -------
 

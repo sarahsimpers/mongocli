@@ -13,7 +13,6 @@ mongocli ops-manager maintenanceWindows delete
    :class: singlecol
 
 Delete a maintenance window.
-
 Syntax
 ------
 

@@ -13,7 +13,6 @@ atlas accessLogs
    :class: singlecol
 
 Return the access logs for a cluster.
-
 Options
 -------
 

@@ -13,7 +13,6 @@ mongocli ops-manager alerts
    :class: singlecol
 
 Manage alerts for your project.
-
 Options
 -------
 

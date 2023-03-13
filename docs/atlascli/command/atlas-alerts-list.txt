@@ -13,7 +13,6 @@ atlas alerts list
    :class: singlecol
 
 Return all alerts for your project.
-
 Syntax
 ------
 

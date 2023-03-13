@@ -15,7 +15,6 @@ atlas organizations
 Manage your Atlas organizations.
 
 Create, list and manage your MongoDB organizations.
-
 Options
 -------
 

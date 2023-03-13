@@ -13,7 +13,6 @@ mongocli ops-manager admin backups s3 update
    :class: singlecol
 
 Update a backup S3 blockstore configuration.
-
 Syntax
 ------
 

@@ -13,7 +13,6 @@ mongocli iam projects list
    :class: singlecol
 
 Return all projects.
-
 Syntax
 ------
 

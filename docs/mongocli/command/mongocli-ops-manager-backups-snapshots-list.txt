@@ -13,7 +13,6 @@ mongocli ops-manager backups snapshots list
    :class: singlecol
 
 List snapshots for a project and cluster.
-
 Syntax
 ------
 

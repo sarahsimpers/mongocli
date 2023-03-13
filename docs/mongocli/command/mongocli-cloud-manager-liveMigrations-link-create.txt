@@ -13,7 +13,6 @@ mongocli cloud-manager liveMigrations link create
    :class: singlecol
 
 Create one new organization link.
-
 Syntax
 ------
 

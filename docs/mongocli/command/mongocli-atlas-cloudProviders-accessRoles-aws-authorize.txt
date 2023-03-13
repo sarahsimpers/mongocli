@@ -13,7 +13,6 @@ mongocli atlas cloudProviders accessRoles aws authorize
    :class: singlecol
 
 Authorize an AWS IAM role.
-
 Syntax
 ------
 

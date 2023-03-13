@@ -13,7 +13,6 @@ mongocli ops-manager admin backups fileSystems delete
    :class: singlecol
 
 Delete a file system configuration.
-
 Syntax
 ------
 

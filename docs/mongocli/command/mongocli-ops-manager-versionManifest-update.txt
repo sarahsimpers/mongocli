@@ -13,7 +13,6 @@ mongocli ops-manager versionManifest update
    :class: singlecol
 
 Update Ops Manager version manifest.
-
 Syntax
 ------
 

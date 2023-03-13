@@ -13,7 +13,6 @@ atlas networking peering create
    :class: singlecol
 
 Create a connection with AWS, Azure and Google Cloud.
-
 Options
 -------
 

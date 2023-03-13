@@ -13,7 +13,6 @@ mongocli ops-manager alerts settings disable
    :class: singlecol
 
 Disables one alert configuration for the specified project.
-
 Syntax
 ------
 

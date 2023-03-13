@@ -15,7 +15,6 @@ mongocli atlas accessLists delete
 Remove the specified IP access list entry from your project.
 
 The command prompts you to confirm the operation when you run the command without the force option.
-
 Syntax
 ------
 

@@ -13,7 +13,6 @@ atlas customDns aws
    :class: singlecol
 
 Manage DNS configuration of an Atlas project’s cluster deployed to AWS.
-
 Options
 -------
 

@@ -13,7 +13,6 @@ mongocli cloud-manager maintenanceWindows describe
    :class: singlecol
 
 Get a maintenance window.
-
 Syntax
 ------
 

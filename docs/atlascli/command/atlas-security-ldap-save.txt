@@ -13,7 +13,6 @@ atlas security ldap save
    :class: singlecol
 
 Save an LDAP configuration for your project.
-
 Syntax
 ------
 

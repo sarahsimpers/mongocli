@@ -13,7 +13,6 @@ mongocli atlas dbusers delete
    :class: singlecol
 
 Remove the specified database user from your project.
-
 Syntax
 ------
 

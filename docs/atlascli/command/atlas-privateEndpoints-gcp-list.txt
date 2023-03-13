@@ -13,7 +13,6 @@ atlas privateEndpoints gcp list
    :class: singlecol
 
 List GCP private endpoints for your project.
-
 Syntax
 ------
 

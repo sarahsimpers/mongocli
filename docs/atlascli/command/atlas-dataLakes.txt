@@ -15,7 +15,6 @@ atlas dataLakes
 Manage Atlas Data Lakes for your project.
 
 The datalakes command provides access to your project data lakes. You can create, edit, and delete data lakes.
-
 Options
 -------
 

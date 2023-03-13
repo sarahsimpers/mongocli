@@ -13,7 +13,6 @@ mongocli iam organizations users
    :class: singlecol
 
 Manage your Ops Manager or Cloud Manager users.
-
 Options
 -------
 

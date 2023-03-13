@@ -15,7 +15,6 @@ mongocli iam projects
 Manage your Ops Manager or Cloud Manager projects.
 
 Create, list and manage your MongoDB projects.
-
 Options
 -------
 

@@ -13,7 +13,6 @@ mongocli iam globalApiKeys update
    :class: singlecol
 
 Modify the roles and description for a global API key.
-
 Syntax
 ------
 

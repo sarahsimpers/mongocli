@@ -13,7 +13,6 @@ atlas clusters loadSampleData
    :class: singlecol
 
 Load sample data into the specified cluster for your project.
-
 Syntax
 ------
 

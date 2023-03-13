@@ -13,7 +13,6 @@ mongocli atlas logs
    :class: singlecol
 
 Download host logs for your project.
-
 Options
 -------
 

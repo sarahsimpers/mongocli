@@ -13,7 +13,6 @@ mongocli iam projects apiKeys list
    :class: singlecol
 
 Return all organization API keys assigned to your project.
-
 Syntax
 ------
 

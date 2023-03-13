@@ -13,7 +13,6 @@ mongocli atlas security customerCerts
    :class: singlecol
 
 Manage customer x509 certificates for your project.
-
 Options
 -------
 

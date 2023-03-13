@@ -13,7 +13,6 @@ atlas privateEndpoints onlineArchive aws list
    :class: singlecol
 
 List Data Lake private endpoints for your project.
-
 Syntax
 ------
 

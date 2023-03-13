@@ -13,7 +13,6 @@ mongocli cloud-manager
    :class: singlecol
 
 MongoDB Cloud Manager operations.
-
 Options
 -------
 

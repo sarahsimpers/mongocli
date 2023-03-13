@@ -13,7 +13,6 @@ mongocli cloud-manager clusters delete
    :class: singlecol
 
 Completely removes a cluster from your project.
-
 Syntax
 ------
 

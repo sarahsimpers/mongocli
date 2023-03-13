@@ -13,7 +13,6 @@ mongocli ops-manager monitoring
    :class: singlecol
 
 Manage monitoring for your project.
-
 Options
 -------
 

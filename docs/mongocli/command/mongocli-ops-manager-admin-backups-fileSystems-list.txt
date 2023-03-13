@@ -13,7 +13,6 @@ mongocli ops-manager admin backups fileSystems list
    :class: singlecol
 
 List file system configurations.
-
 Syntax
 ------
 

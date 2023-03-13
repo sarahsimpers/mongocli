@@ -13,7 +13,6 @@ mongocli atlas liveMigrations describe
    :class: singlecol
 
 Return a push live migration job.
-
 Syntax
 ------
 

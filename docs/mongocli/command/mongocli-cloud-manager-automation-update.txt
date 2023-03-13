@@ -13,7 +13,6 @@ mongocli cloud-manager automation update
    :class: singlecol
 
 Update the current automation configuration for a project.
-
 Syntax
 ------
 

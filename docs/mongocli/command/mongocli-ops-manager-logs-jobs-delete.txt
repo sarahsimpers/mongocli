@@ -13,7 +13,6 @@ mongocli ops-manager logs jobs delete
    :class: singlecol
 
 Delete a log collection job from your project.
-
 Syntax
 ------
 

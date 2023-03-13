@@ -15,7 +15,6 @@ mongocli iam
 Organization and projects operations.
 
 Identity and Access Management.
-
 Options
 -------
 

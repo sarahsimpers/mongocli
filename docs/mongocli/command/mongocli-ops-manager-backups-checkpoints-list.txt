@@ -13,7 +13,6 @@ mongocli ops-manager backups checkpoints list
    :class: singlecol
 
 List continuous backup checkpoints for your project.
-
 Syntax
 ------
 

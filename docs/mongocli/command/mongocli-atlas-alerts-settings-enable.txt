@@ -13,7 +13,6 @@ mongocli atlas alerts settings enable
    :class: singlecol
 
 Enables one alert configuration for the specified project.
-
 Syntax
 ------
 

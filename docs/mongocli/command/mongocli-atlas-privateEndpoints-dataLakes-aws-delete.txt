@@ -13,7 +13,6 @@ mongocli atlas privateEndpoints dataLakes aws delete
    :class: singlecol
 
 Delete a specific Data Lake private endpoint for your project.
-
 Syntax
 ------
 

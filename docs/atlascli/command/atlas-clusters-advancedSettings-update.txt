@@ -13,7 +13,6 @@ atlas clusters advancedSettings update
    :class: singlecol
 
 Update advanced configuration settings for one cluster.
-
 Syntax
 ------
 

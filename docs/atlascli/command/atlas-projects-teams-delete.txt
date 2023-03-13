@@ -15,7 +15,6 @@ atlas projects teams delete
 Remove the specified team from your project.
 
 After you remove a team from your project, the team still exists in the organization in which it was created.
-
 Syntax
 ------
 

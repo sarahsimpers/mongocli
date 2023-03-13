@@ -13,7 +13,6 @@ atlas dbusers list
    :class: singlecol
 
 Return all database users for your project.
-
 Syntax
 ------
 

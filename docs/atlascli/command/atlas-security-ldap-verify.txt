@@ -13,7 +13,6 @@ atlas security ldap verify
    :class: singlecol
 
 Request verification of an LDAP configuration for your project.
-
 Syntax
 ------
 

@@ -13,7 +13,6 @@ mongocli ops-manager featurePolicies
    :class: singlecol
 
 Manage feature control policies.
-
 Options
 -------
 

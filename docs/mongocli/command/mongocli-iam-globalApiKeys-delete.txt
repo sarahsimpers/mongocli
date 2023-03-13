@@ -13,7 +13,6 @@ mongocli iam globalApiKeys delete
    :class: singlecol
 
 Remove the specified global API key from your Ops Manager instance.
-
 Syntax
 ------
 

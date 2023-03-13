@@ -15,7 +15,6 @@ atlas security customerCerts create
 Saves a customer-managed X.509 configuration for your project.
 
 Saving a customer-managed X.509 configuration triggers a rolling restart.
-
 Syntax
 ------
 
@@ -72,12 +71,13 @@ Inherited Options
 Output
 ------
 
-If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values:
+If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values. The | symbol represents a horizontal tab.
 
 .. code-block::
 
    Certificate successfully created.
    
+
 
 Examples
 --------

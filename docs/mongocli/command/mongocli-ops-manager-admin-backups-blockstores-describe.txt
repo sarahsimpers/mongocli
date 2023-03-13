@@ -13,7 +13,6 @@ mongocli ops-manager admin backups blockstores describe
    :class: singlecol
 
 Get a backup blockstore configuration.
-
 Syntax
 ------
 

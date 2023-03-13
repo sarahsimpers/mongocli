@@ -16,7 +16,6 @@ Return all databases running on the specified host for your project.
 
 To return the hostname and port needed for this command, run
 mongocli atlas processes list
-
 Syntax
 ------
 

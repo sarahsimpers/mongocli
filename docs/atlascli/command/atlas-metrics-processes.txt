@@ -16,7 +16,6 @@ Return the process measurements for the specified host.
 
 To return the hostname and port needed for this command, run
 atlas processes list
-
 Syntax
 ------
 

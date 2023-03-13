@@ -13,7 +13,6 @@ mongocli ops-manager admin backups sync create
    :class: singlecol
 
 Create a backup sync configuration.
-
 Syntax
 ------
 

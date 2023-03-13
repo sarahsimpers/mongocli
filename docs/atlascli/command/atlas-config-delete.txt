@@ -13,7 +13,6 @@ atlas config delete
    :class: singlecol
 
 Delete a profile.
-
 Syntax
 ------
 

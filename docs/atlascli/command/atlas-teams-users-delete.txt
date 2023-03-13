@@ -13,7 +13,6 @@ atlas teams users delete
    :class: singlecol
 
 Remove the specified user from a team for your organization.
-
 Syntax
 ------
 

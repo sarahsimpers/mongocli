@@ -13,7 +13,6 @@ atlas alerts acknowledge
    :class: singlecol
 
 Acknowledges the specified alert for your project.
-
 Syntax
 ------
 

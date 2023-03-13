@@ -13,7 +13,6 @@ mongocli cloud-manager logs jobs collect
    :class: singlecol
 
 Start a job to collect logs for your project.
-
 Syntax
 ------
 

@@ -13,7 +13,6 @@ atlas alerts settings fields
    :class: singlecol
 
 Manages alert configuration fields for your project.
-
 Options
 -------
 

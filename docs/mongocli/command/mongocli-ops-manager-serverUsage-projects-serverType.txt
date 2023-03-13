@@ -13,7 +13,6 @@ mongocli ops-manager serverUsage projects serverType
    :class: singlecol
 
 Manage your server type for a project.
-
 Options
 -------
 

@@ -13,7 +13,6 @@ mongocli cloud-manager automation
    :class: singlecol
 
 Manage automation configuration for your project.
-
 Options
 -------
 

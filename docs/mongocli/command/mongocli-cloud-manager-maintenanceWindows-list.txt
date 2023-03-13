@@ -13,7 +13,6 @@ mongocli cloud-manager maintenanceWindows list
    :class: singlecol
 
 List maintenance windows.
-
 Syntax
 ------
 

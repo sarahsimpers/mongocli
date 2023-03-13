@@ -15,7 +15,6 @@ mongocli ops-manager owner create
 Create the first user for Ops Manager.
 
 Create the first user for Ops Manager. Use this command to automate Ops Manager Installations.
-
 Syntax
 ------
 

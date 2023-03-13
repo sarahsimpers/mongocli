@@ -15,7 +15,6 @@ mongocli iam organizations apiKeys delete
 Remove the specified API key for your organization.
 
 To view possible values for the ID argument, run mongocli organizations apiKeys list.
-
 Syntax
 ------
 

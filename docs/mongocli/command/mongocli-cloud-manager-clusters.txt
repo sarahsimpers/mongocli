@@ -13,7 +13,6 @@ mongocli cloud-manager clusters
    :class: singlecol
 
 Manage clusters for your project.
-
 Options
 -------
 

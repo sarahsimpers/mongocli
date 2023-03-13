@@ -13,7 +13,6 @@ mongocli atlas customDns
    :class: singlecol
 
 Manage DNS configuration of Atlas project’s clusters deployed to AWS.
-
 Options
 -------
 

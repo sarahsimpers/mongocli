@@ -13,7 +13,6 @@ mongocli ops-manager admin backups oplog delete
    :class: singlecol
 
 Delete a backup oplog configuration.
-
 Syntax
 ------
 

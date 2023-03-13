@@ -13,7 +13,6 @@ mongocli atlas security ldap get
    :class: singlecol
 
 Return the current LDAP configuration details for your project.
-
 Syntax
 ------
 

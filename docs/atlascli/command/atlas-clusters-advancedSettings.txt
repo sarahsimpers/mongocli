@@ -13,7 +13,6 @@ atlas clusters advancedSettings
    :class: singlecol
 
 Manage advanced configuration settings for your cluster.
-
 Options
 -------
 

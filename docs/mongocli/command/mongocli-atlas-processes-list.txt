@@ -13,7 +13,6 @@ mongocli atlas processes list
    :class: singlecol
 
 Return all MongoDB processes for your project.
-
 Syntax
 ------
 

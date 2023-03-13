@@ -15,7 +15,6 @@ atlas liveMigrations link create
 Create a new link-token for a push live migration.
 
 To migrate using scripts, use mongomirror instead of the Atlas CLI. To learn more about mongomirror, see https://www.mongodb.com/docs/atlas/reference/mongomirror/.
-
 Syntax
 ------
 
@@ -72,10 +71,11 @@ Inherited Options
 Output
 ------
 
-If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values:
+If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values. The | symbol represents a horizontal tab.
 
 .. code-block::
 
    Link-token '<LinkToken>' successfully created.
    
+
 

@@ -13,7 +13,6 @@ atlas serverless list
    :class: singlecol
 
 Return all serverless instances in the specified project.
-
 Syntax
 ------
 

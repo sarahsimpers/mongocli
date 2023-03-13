@@ -13,7 +13,6 @@ mongocli ops-manager processes list
    :class: singlecol
 
 List MongoDB processes for your project.
-
 Syntax
 ------
 

@@ -17,7 +17,6 @@ Remove the specified organization API key from your project.
 The API key still exists at the organization level. To reassign the organization API key to a project, run the  atlas projects apiKeys assign command.
 		
 To view possible values for the ID argument, run atlas organizations apiKeys list.
-
 Syntax
 ------
 

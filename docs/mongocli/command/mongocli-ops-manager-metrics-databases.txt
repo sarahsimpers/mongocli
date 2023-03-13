@@ -13,7 +13,6 @@ mongocli ops-manager metrics databases
    :class: singlecol
 
 List available databases or databases measurements for a given host.
-
 Options
 -------
 

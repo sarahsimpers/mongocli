@@ -13,7 +13,6 @@ atlas networking
    :class: singlecol
 
 Manage or configure network peering for your Atlas project.
-
 Options
 -------
 

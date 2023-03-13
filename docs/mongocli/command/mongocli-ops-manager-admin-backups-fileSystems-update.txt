@@ -13,7 +13,6 @@ mongocli ops-manager admin backups fileSystems update
    :class: singlecol
 
 Update a file system configuration.
-
 Syntax
 ------
 

@@ -13,7 +13,6 @@ atlas serverless delete
    :class: singlecol
 
 Remove a serverless instance from your project.
-
 Syntax
 ------
 

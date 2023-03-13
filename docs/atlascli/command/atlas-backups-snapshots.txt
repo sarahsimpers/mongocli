@@ -13,7 +13,6 @@ atlas backups snapshots
    :class: singlecol
 
 Manage cloud backup snapshots for your project.
-
 Options
 -------
 

@@ -13,7 +13,6 @@ atlas clusters availableRegions
    :class: singlecol
 
 Manage available regions for your project.
-
 Options
 -------
 

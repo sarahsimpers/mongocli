@@ -13,7 +13,6 @@ mongocli cloud-manager dbusers delete
    :class: singlecol
 
 Delete a database user for your project.
-
 Syntax
 ------
 

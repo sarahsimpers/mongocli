@@ -13,7 +13,6 @@ mongocli iam users delete
    :class: singlecol
 
 Remove the specified Ops Manager user.
-
 Syntax
 ------
 

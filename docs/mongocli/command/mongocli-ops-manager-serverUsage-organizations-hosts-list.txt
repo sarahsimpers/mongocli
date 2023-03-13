@@ -13,7 +13,6 @@ mongocli ops-manager serverUsage organizations hosts list
    :class: singlecol
 
 List all host assignments for one organization.
-
 Syntax
 ------
 

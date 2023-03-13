@@ -17,7 +17,6 @@ Return up to 20 namespaces for collections experiencing slow queries on the spec
 Namespaces appear in the following format: {database}.{collection}.
 		
 If you don't set the duration option or the since option, this command returns data from the last 24 hours.
-
 Syntax
 ------
 

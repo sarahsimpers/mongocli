@@ -19,7 +19,6 @@ All settings are optional. You can specify settings individually by running:
 $ mongocli config set --help 
 You can also use environment variables (MCLI_*) when running the tool.
 To find out more, see the documentation: https://docs.mongodb.com/mongocli/stable/configure/environment-variables/.
-
 Syntax
 ------
 

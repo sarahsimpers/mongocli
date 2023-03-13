@@ -13,7 +13,6 @@ mongocli cloud-manager performanceAdvisor
    :class: singlecol
 
 Learn more about slow queries and get suggestions to improve database performance.
-
 Options
 -------
 

@@ -17,7 +17,6 @@ Assign the specified organization API key to your project and modify the API key
 When you modify the roles for an organization API key with this command, the values you specify overwrite the existing roles assigned to the API key.
 		
 To view possible values for the ID argument, run atlas organizations apiKeys list.
-
 Syntax
 ------
 

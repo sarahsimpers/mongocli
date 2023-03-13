@@ -13,7 +13,6 @@ mongocli iam teams create
    :class: singlecol
 
 Create a team for your organization.
-
 Syntax
 ------
 
@@ -86,12 +85,13 @@ Inherited Options
 Output
 ------
 
-If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values:
+If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values. The | symbol represents a horizontal tab.
 
 .. code-block::
 
    Team '<Name>' created.
    
+
 
 Examples
 --------

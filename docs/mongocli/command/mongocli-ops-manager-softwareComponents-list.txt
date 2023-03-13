@@ -13,7 +13,6 @@ mongocli ops-manager softwareComponents list
    :class: singlecol
 
 List versions of MongoDB Agent, MongoDB Tools, and BI Connector in your environment.
-
 Syntax
 ------
 

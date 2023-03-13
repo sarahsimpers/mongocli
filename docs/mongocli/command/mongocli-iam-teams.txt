@@ -15,7 +15,6 @@ mongocli iam teams
 Manage your Ops Manager or Cloud Manager teams.
 
 Create, list and manage your Cloud Manager or Ops Manager teams.
-
 Options
 -------
 

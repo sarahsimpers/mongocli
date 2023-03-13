@@ -13,7 +13,6 @@ mongocli ops-manager serverUsage organizations serverType set
    :class: singlecol
 
 Set the default server type for an organization.
-
 Syntax
 ------
 

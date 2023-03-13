@@ -13,7 +13,6 @@ mongocli cloud-manager automation describe
    :class: singlecol
 
 Get the current automation configuration for a project.
-
 Syntax
 ------
 

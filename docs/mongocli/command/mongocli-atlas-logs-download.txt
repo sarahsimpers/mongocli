@@ -17,7 +17,6 @@ Download a compressed file that contains the MongoDB logs for the specified host
 This command downloads a file with a .gz extension.
 
 To find the hostnames for an Atlas project, use the process list command.
-
 Syntax
 ------
 

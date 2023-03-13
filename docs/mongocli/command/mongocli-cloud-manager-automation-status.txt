@@ -13,7 +13,6 @@ mongocli cloud-manager automation status
    :class: singlecol
 
 Show the current status of the automation config.
-
 Syntax
 ------
 

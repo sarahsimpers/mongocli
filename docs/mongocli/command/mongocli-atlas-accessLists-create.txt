@@ -19,7 +19,6 @@ The access list can contain trusted IP addresses, AWS security group IDs, and en
 The command doesn't overwrite existing entries in the access list. Instead, it adds the new entries to the list of entries.
 
 To use this command, you must authenticate with a user account or an API key that has the Read Write role.
-
 Syntax
 ------
 
@@ -104,12 +103,13 @@ Inherited Options
 Output
 ------
 
-If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values:
+If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values. The | symbol represents a horizontal tab.
 
 .. code-block::
 
    Created new IP access list.
    
+
 
 Examples
 --------

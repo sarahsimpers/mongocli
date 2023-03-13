@@ -13,7 +13,6 @@ atlas privateEndpoints azure
    :class: singlecol
 
 Manage Azure Private Endpoints.
-
 Options
 -------
 

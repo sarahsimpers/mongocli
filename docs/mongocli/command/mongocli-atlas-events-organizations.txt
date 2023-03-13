@@ -15,7 +15,6 @@ mongocli atlas events organizations
 Organization operations.
 
 List organization events.
-
 Options
 -------
 

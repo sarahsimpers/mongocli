@@ -15,7 +15,6 @@ atlas organizations apiKeys accessLists list
 Return all IP access list entries for your API Key.
 
 To view possible values for the apiKeyID argument, run atlas organizations apiKeys list.
-
 Syntax
 ------
 

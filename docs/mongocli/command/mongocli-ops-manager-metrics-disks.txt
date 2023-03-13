@@ -13,7 +13,6 @@ mongocli ops-manager metrics disks
    :class: singlecol
 
 List available disks or disks measurements for a given host.
-
 Options
 -------
 

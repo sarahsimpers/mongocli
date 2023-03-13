@@ -13,7 +13,6 @@ atlas projects settings update
    :class: singlecol
 
 Updates settings for a project.
-
 Syntax
 ------
 

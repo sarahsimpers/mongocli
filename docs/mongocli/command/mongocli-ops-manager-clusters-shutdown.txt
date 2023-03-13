@@ -13,7 +13,6 @@ mongocli ops-manager clusters shutdown
    :class: singlecol
 
 Shutdown a cluster for your project.
-
 Syntax
 ------
 

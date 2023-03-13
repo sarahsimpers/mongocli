@@ -13,7 +13,6 @@ mongocli iam projects teams update
    :class: singlecol
 
 Modify the roles for the specified team for your project.
-
 Syntax
 ------
 

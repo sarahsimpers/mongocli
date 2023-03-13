@@ -13,7 +13,6 @@ atlas networking peering delete
    :class: singlecol
 
 Remove the specified peering connection from your project.
-
 Syntax
 ------
 

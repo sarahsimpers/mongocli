@@ -15,7 +15,6 @@ atlas projects users delete
 Remove the specified user from your project.
 
 After you remove a user from your project, the user still exists in the organization in which it was created.
-
 Syntax
 ------
 

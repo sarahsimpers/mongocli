@@ -13,7 +13,6 @@ atlas teams delete
    :class: singlecol
 
 Remove the specified team from your organization.
-
 Syntax
 ------
 

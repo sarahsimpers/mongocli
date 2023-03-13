@@ -13,7 +13,6 @@ mongocli atlas performanceAdvisor suggestedIndexes
    :class: singlecol
 
 Get suggested indexes for collections experiencing slow queries
-
 Options
 -------
 

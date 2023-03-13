@@ -13,7 +13,6 @@ mongocli ops-manager serverUsage projects
    :class: singlecol
 
 Manage your server usage for a project.
-
 Options
 -------
 

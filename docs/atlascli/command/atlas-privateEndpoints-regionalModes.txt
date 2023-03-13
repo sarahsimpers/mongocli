@@ -13,7 +13,6 @@ atlas privateEndpoints regionalModes
    :class: singlecol
 
 Manage regionalized private endpoint setting for your Atlas project.
-
 Options
 -------
 

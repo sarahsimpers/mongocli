@@ -15,7 +15,6 @@ mongocli atlas integrations create PAGER_DUTY
 Create or update a PagerDuty integration for your project.
 
 The requesting API key must have the Organization Owner or Project Owner role to configure an integration with PagerDuty.
-
 Syntax
 ------
 
@@ -72,12 +71,13 @@ Inherited Options
 Output
 ------
 
-If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values:
+If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values. The | symbol represents a horizontal tab.
 
 .. code-block::
 
    Pager Duty integration configured.
    
+
 
 Examples
 --------

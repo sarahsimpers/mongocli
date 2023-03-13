@@ -13,7 +13,6 @@ mongocli atlas accessLogs list
    :class: singlecol
 
 Retrieve the access logs of a cluster identified by the cluster's name or hostname.
-
 Syntax
 ------
 

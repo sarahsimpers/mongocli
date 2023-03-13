@@ -13,7 +13,6 @@ mongocli ops-manager metrics databases describe
    :class: singlecol
 
 Describe database measurements for a given host database.
-
 Syntax
 ------
 

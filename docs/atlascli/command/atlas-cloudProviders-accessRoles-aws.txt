@@ -13,7 +13,6 @@ atlas cloudProviders accessRoles aws
    :class: singlecol
 
 Manage AWS IAM role access in Atlas.
-
 Options
 -------
 

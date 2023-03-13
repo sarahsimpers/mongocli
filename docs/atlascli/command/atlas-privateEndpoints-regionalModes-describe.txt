@@ -15,7 +15,6 @@ atlas privateEndpoints regionalModes describe
 Return the regionalized private endpoint setting for your project.
 
 Use this command to check whether you can create multiple private resources per region.
-
 Syntax
 ------
 

@@ -13,7 +13,6 @@ mongocli iam projects teams
    :class: singlecol
 
 Manage your Ops Manager or Cloud Manager teams.
-
 Options
 -------
 

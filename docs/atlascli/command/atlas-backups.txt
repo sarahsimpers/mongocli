@@ -13,7 +13,6 @@ atlas backups
    :class: singlecol
 
 Manage cloud backups for your project.
-
 Options
 -------
 

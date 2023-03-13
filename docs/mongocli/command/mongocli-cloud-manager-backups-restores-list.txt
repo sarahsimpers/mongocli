@@ -13,7 +13,6 @@ mongocli cloud-manager backups restores list
    :class: singlecol
 
 Lists restore jobs for a project and cluster.
-
 Syntax
 ------
 

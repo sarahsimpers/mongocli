@@ -13,7 +13,6 @@ mongocli cloud-manager liveMigrations
    :class: singlecol
 
 Manage a Live Migration to Atlas for your organization.
-
 Options
 -------
 

@@ -15,7 +15,6 @@ mongocli atlas cloudProviders accessRoles aws create
 Create an AWS IAM role.
 
 To use this command, you must authenticate with a user account or an API key that has the Project Owner role.
-
 Syntax
 ------
 
@@ -68,12 +67,13 @@ Inherited Options
 Output
 ------
 
-If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values:
+If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values. The | symbol represents a horizontal tab.
 
 .. code-block::
 
-   AWS IAM role '<RoleID>' successfully created.
+AWS IAM role '<RoleID>' successfully created.
    Atlas AWS Account ARN: <AtlasAWSAccountARN>
    Unique External ID: <AtlasAssumedRoleExternalID>
    
+
 

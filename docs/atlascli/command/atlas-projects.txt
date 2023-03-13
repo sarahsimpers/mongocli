@@ -15,7 +15,6 @@ atlas projects
 Manage your Atlas projects.
 
 Create, list and manage your MongoDB projects.
-
 Options
 -------
 

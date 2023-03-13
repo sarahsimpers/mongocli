@@ -16,7 +16,6 @@ Return the measurements of a disk or partition on the specified host.
 
 To return the hostname and port needed for this command, run
 atlas processes list
-
 Syntax
 ------
 

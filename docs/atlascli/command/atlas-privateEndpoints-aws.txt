@@ -13,7 +13,6 @@ atlas privateEndpoints aws
    :class: singlecol
 
 Manage AWS Private Endpoints.
-
 Options
 -------
 

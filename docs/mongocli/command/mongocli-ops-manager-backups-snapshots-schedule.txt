@@ -13,7 +13,6 @@ mongocli ops-manager backups snapshots schedule
    :class: singlecol
 
 Manage backup snapshot schedules for a cluster.
-
 Options
 -------
 

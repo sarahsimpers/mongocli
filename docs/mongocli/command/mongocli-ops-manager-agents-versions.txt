@@ -13,7 +13,6 @@ mongocli ops-manager agents versions
    :class: singlecol
 
 Manage MongoDB Agents versions.
-
 Options
 -------
 

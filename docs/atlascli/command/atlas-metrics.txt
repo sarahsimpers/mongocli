@@ -13,7 +13,6 @@ atlas metrics
    :class: singlecol
 
 Get metrics on the MongoDB process.
-
 Options
 -------
 

@@ -15,7 +15,6 @@ atlas privateEndpoints regionalModes disable
 Disable the regionalized private endpoint setting for your project.
 
 This disables the ability to create multiple private resources per region in all cloud service providers for this project.
-
 Syntax
 ------
 

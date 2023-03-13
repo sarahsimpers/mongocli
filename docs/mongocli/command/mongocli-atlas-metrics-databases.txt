@@ -13,7 +13,6 @@ mongocli atlas metrics databases
    :class: singlecol
 
 List available databases or database metrics for a given host.
-
 Options
 -------
 

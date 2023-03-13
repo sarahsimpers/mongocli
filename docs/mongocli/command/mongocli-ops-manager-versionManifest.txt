@@ -13,7 +13,6 @@ mongocli ops-manager versionManifest
    :class: singlecol
 
 Manage Ops Manager version manifest.
-
 Options
 -------
 

@@ -13,7 +13,6 @@ mongocli ops-manager agents upgrade
    :class: singlecol
 
 Upgrade MongoDB Agents to the latest available version.
-
 Syntax
 ------
 

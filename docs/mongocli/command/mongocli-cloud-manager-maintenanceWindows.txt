@@ -13,7 +13,6 @@ mongocli cloud-manager maintenanceWindows
    :class: singlecol
 
 Manage Ops Manager/Cloud Manager maintenance windows.
-
 Options
 -------
 

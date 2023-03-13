@@ -13,7 +13,6 @@ atlas privateEndpoints azure delete
    :class: singlecol
 
 Remove the specified Azure private endpoint from your project.
-
 Syntax
 ------
 

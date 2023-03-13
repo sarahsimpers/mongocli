@@ -13,7 +13,6 @@ mongocli atlas privateEndpoints
    :class: singlecol
 
 Manage Atlas private endpoints.
-
 Options
 -------
 

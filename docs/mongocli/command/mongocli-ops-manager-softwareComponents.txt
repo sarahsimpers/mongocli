@@ -13,7 +13,6 @@ mongocli ops-manager softwareComponents
    :class: singlecol
 
 Manage earliest and latest versions of MongoDB Agent, MongoDB Tools, and BI Connector in your environment.
-
 Options
 -------
 

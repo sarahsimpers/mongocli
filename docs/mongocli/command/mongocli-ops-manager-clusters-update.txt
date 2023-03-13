@@ -13,7 +13,6 @@ mongocli ops-manager clusters update
    :class: singlecol
 
 Update a MongoDB cluster.
-
 Syntax
 ------
 
