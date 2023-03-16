@@ -75,12 +75,12 @@ Inherited Options
 Output
 ------
 
-If the command succeeds, the CLI prints a message similar to the following and replaces the values in brackets with your values. The | symbol represents a horizontal tab.
+If the command succeeds, the CLI returns output similar to the following sample. Values in brackets represent your values.
 
 .. code-block::
 
-     ID|  NAME|         MDB VER|STATE
-   <ID>|<Name>|<MongoDBVersion>|<StateName>
+   ID     NAME     MDB VER            STATE
+   <ID>   <Name>   <MongoDBVersion>   <StateName>
    
 
 
